@@ -1,1 +1,1 @@
-# Loteria-National-M07_Desenvolupament-d-interf-cies-
+NOTE: move the folder "algo" into your hard drive C:\ in order to view the pictures.
